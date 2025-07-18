@@ -5,7 +5,7 @@
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug🤔🖥
 - 📫 How to reach me iamswami19@gmail.com
 
-- Skills 
+# Skills 🤹🏻 
 
 - 💻 Languages:  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
